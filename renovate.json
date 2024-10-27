@@ -1,0 +1,6 @@
+{
+    "platform": "local",
+    "enabledManagers": ["maven"],
+    "onboarding": false,
+    "requireConfig": false
+  }

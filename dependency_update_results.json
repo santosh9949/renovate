@@ -1,0 +1,14 @@
+[
+  {
+    "name": "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml",
+    "current_version": "2.14.2",
+    "status": "can be updated",
+    "latest_version": "2.18.0"
+  },
+  {
+    "name": "org.junit.jupiter:junit-jupiter-params",
+    "current_version": "5.9.2",
+    "status": "can be updated",
+    "latest_version": "5.11.3"
+  }
+]
